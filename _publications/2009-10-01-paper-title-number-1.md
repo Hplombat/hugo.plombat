@@ -3,6 +3,7 @@ title: "21 cm signal from dark-age collapsing halos with a detailed molecular co
 collection: publications
 category: manuscripts
 permalink: [/publication/2009-10-01-paper-title-number-1](https://www.aanda.org/articles/aa/full_html/2025/06/aa50380-24/aa50380-24.html)]
+excerpt: 
 date: 2025-06-18
 venue: 'Astronomy & Astrophysics'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
