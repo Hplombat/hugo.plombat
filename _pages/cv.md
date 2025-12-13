@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a link to my CV here
+You can find a link to my CV [here]("LINK TO CV PDF").
+
