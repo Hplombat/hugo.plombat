@@ -10,7 +10,7 @@ slidesurl:
 paperurl:  'https://www.aanda.org/articles/aa/full_html/2025/06/aa50380-24/aa50380-24.html'
 citation: 
 ---
-_
+
 _Context_. To understand the formation of the first stars, a detailed description of the thermal and chemical processes in collapsing gas clouds is essential. Molecular cooling, particularly via $H_2$, plays a significant role in triggering thermal instabilities that lead to star formation. The 21 cm hydrogen line serves as a potential probe of the first collapsing structures during the dark ages of the early Universe, and it is affected by the gas temperature evolution.
 
 _Aims_. We aim to investigate the molecular cooling in the gas halos prior to the formation of the first stars, with a particular focus on how the $H_2$ cooling affects the gas temperature. Additionally, we explore the sensitivity of the 21 cm hydrogen line to these cooling processes during the collapse of the first overdense regions.
