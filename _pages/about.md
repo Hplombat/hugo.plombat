@@ -17,13 +17,10 @@ redirect_from:
 Ocean numerical simulations and ocean observations from satellite altimetry are among the most important tools to work on these questions.
 But I'm also working with Lunar Laser Ranging (LLR) observations, measuring the distance between the Earth and the Moon with centimeter precision!
 
-Why LLR, why the Moon? It all has to do to with my forthcoming paper, why we are wondering: 
-
+Why LLR, why the Moon? It all has to do to with my forthcoming paper, where we are wondering: 
 **Can climate change on Earth affect the orbit of the Moon?**
-
 The answer (or part of it) coming soon. 
-
-
+_______________________________________
 ### My past and present in academia
 
 - **Since November 2024:** Postdoc at the University of Michigan in the [Earth and Environmental Sciences department](https://lsa.umich.edu/earth), working with [Brian Arbic](https://arbic.earth.lsa.umich.edu/).
