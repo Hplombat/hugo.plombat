@@ -6,9 +6,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
- I'm a postdoctoral research fellow at the University of Michigan. 
+ I'm a postdoctoral research fellow at the University of Michigan. I work with a foot in the water, and another on the Moon, at the interface between physical oceanography and planetary science.
 
- I'm working on tides. 
+ My current research focuses on tides and how they changed in the last few decades due to climate change.
+ In particular, I'm trying to tackle questions like:
+ - What kind of mechanism can affect the tides at the global scale?
+ - Are there some cycles, at the annual or monthly scale, in this variation?
+ - How can we detect long and short-term changes in the tides? 
+
+Ocean numerical simulations and ocean observations from satellite altimetry are among the most important tools to work on these questions.
+But I'm also working with Lunar Laser Ranging (LLR) observations, measuring the distance between the Earth and the Moon with centimeter precision!
+
+Why LLR, why the Moon? It all has to do to with my forthcoming paper, why we are wondering: 
+
+**Can climate change on Earth affect the orbit of the Moon?**
+
+The answer (or part of it) coming soon. 
 
 
 ### My past and present in academia
