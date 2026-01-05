@@ -23,7 +23,7 @@ repository               : "https://hplombat.github.io/hugo.plombat"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hugo_plombat.jpg"
+  avatar           : "HUGO_PLOMBAT.png"
   name             : "Hugo Plombat"
   pronouns         : "he/him" # example: "she/her"  
   bio              : 
