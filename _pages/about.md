@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "Hugo Plombat"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
- I'm a postdoctoral research fellow at the University of Michigan. I work with a foot in the water, and another on the Moon, at the interface between physical oceanography and planetary science.
+ I'm **Hugo Plombat**, a postdoctoral research fellow at the University of Michigan. I work with a foot in the water, and another on the Moon, at the interface between physical oceanography and orbital dynamics.
 
  My current research focuses on tides and how they changed in the last few decades due to climate change.
  In particular, I'm trying to tackle questions like:
