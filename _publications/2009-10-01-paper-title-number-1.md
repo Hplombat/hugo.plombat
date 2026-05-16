@@ -2,7 +2,7 @@
 title: "21 cm signal from dark-age collapsing halos with a detailed molecular cooling treatment"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 
 date: 2025-06-18
 venue: 'Astronomy & Astrophysics'
